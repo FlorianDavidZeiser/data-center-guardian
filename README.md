@@ -4,7 +4,7 @@ A small browser-based arcade-style experiment built together with AI tools as pa
 
 ## Play the game
 
-👉 https://DEINUSERNAME.github.io/data-center-guardian/
+👉 https://FlorianDavidZeiser.github.io/data-center-guardian/
 
 (Open the link in a desktop browser for the best experience.)
 
