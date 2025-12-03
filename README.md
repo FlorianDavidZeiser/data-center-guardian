@@ -1,4 +1,4 @@
-# Datacenter Guardian – Defender of the Grid
+# Data Center Guardian – Defender of the Grid
 ![Cover](cover_game.png)
 
 A small browser-based arcade-style experiment built together with AI tools as part of my ongoing exploration of generative AI, prototyping, and interactive media.
