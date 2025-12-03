@@ -25,7 +25,7 @@ Survive as many waves as you can.
 Your score is stored locally so you can challenge yourself or others on the same machine.
 
 ## Features
-<img src="logo_game.png" width="120">
+<img src="logo_game.png" width="240">
 
 - Browser-based game, no installation required  
 - Wave-based difficulty curve  
