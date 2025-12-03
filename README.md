@@ -11,15 +11,14 @@ A small browser-based arcade-style experiment built together with AI tools as pa
 
 ## How it works
 
-Datacenter Guardian is a small resilience game.  
+Data Center Guardian is a small resilience game.  
 Fires break out in a data center. Alarms go off. Your job is to keep the systems alive for as long as possible.
 
-You move, react and use different tools to:
+You move, react, and use different tools to:
 
 - detect and contain fires  
 - cool overheated racks  
-- repair damaged infrastructure  
-- keep the overall system from failing  
+- stabilize the overall system integrity  
 
 Survive as many waves as you can.  
 Your score is stored locally so you can challenge yourself or others on the same machine.
@@ -30,8 +29,8 @@ Your score is stored locally so you can challenge yourself or others on the same
 - Browser-based game, no installation required  
 - Wave-based difficulty curve  
 - Score system and local leaderboard  
-- Embedded original soundtrack (MP3)  
-- Multiple tools for suppression, cooling and repair  
+- Custom AI-generated soundtrack, embedded as MP3 
+- Multiple tools for fire-suppression and cooling  
 - Increasing pressure on attention and reaction over time  
 
 ## Built with AI
@@ -41,11 +40,12 @@ The focus was to explore how far someone who does not normally code games can go
 
 It follows earlier experiments with:
 
-- AI generated images  
-- a co-authored book with ChatGPT  
+- AI-generated images  
+- a co-authored book with ChatGPT
+- using AI in the context of storytelling & corporate learning 
 - short AI-assisted movie scenes  
 
-Datacenter Guardian continues this line of experiments in the direction of interactive media.
+Data Center Guardian continues this line of experiments in the direction of interactive media.
 
 ## License
 
