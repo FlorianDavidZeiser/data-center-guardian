@@ -1,4 +1,5 @@
 # Datacenter Guardian – Defender of the Grid
+![Cover](cover_game.png)
 
 A small browser-based arcade-style experiment built together with AI tools as part of my ongoing exploration of generative AI, prototyping, and interactive media.
 
@@ -24,6 +25,7 @@ Survive as many waves as you can.
 Your score is stored locally so you can challenge yourself or others on the same machine.
 
 ## Features
+![Logo](logo_game.png)
 
 - Browser-based game, no installation required  
 - Wave-based difficulty curve  
