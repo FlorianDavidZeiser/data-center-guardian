@@ -1,10 +1,10 @@
-# Datacenter Guardian
+# Datacenter Guardian – Defender of the Grid
 
 A small browser-based arcade-style experiment built together with AI tools as part of my ongoing exploration of generative AI, prototyping, and interactive media.
 
 ## Play the game
 
-👉 https://FlorianDavidZeiser.github.io/data-center-guardian/
+👉 https://DEINUSERNAME.github.io/data-center-guardian/
 
 (Open the link in a desktop browser for the best experience.)
 
@@ -18,15 +18,15 @@ You move, react and use different tools to:
 - detect and contain fires  
 - cool overheated racks  
 - repair damaged infrastructure  
-- keep the overall system from failing
+- keep the overall system from failing  
 
 Survive as many waves as you can.  
 Your score is stored locally so you can challenge yourself or others on the same machine.
 
 ## Features
 
-- Browser-based game, no install required  
-- Wave based difficulty curve  
+- Browser-based game, no installation required  
+- Wave-based difficulty curve  
 - Score system and local leaderboard  
 - Embedded original soundtrack (MP3)  
 - Multiple tools for suppression, cooling and repair  
@@ -41,12 +41,13 @@ It follows earlier experiments with:
 
 - AI generated images  
 - a co-authored book with ChatGPT  
-- short AI assisted movie scenes  
+- short AI-assisted movie scenes  
 
 Datacenter Guardian continues this line of experiments in the direction of interactive media.
 
 ## License
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 You may reuse and adapt the code for non-commercial purposes as long as you give appropriate credit and provide a link to this repository.
+
